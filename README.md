@@ -5,10 +5,10 @@ Developer: Cynthia Cai
 
 Date: May 27, 2022
 
-# Environment library
+# Environment
 Python 3.0
 
-math, numpy, matplotlib, json
+Library: math, numpy, matplotlib, json
 
 # Usage
 (1) Put the dataset in folder data;
