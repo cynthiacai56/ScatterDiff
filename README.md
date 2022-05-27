@@ -3,6 +3,8 @@ Developer: Cynthia Cai
 
 Function:  Compute mean Euclidean distance and visualize the differences between two scatters
 
+Date: May 27, 2022
+
 # Environment library
 Python 3.0
 
