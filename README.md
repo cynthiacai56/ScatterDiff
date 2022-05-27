@@ -1,5 +1,7 @@
 # geo1016_ScatterDiff
-Compute mean Euclidean distance and visualize the differences between two scatters
+Developer: Cynthia Cai
+
+Function:  Compute mean Euclidean distance and visualize the differences between two scatters
 
 # Environment library
 Python 3.0
