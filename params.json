@@ -1,0 +1,12 @@
+{
+  "image0": {
+    "name": "image0",
+    "pts1": "image_points_0.xyz",
+    "pts2": "reconstructed_image_points_0.txt"
+  },
+  "image1": {
+    "name": "image1",
+    "pts1": "image_points_1.xyz",
+    "pts2": "reconstructed_image_points_1.txt"
+  }
+}
