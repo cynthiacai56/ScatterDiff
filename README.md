@@ -1,7 +1,7 @@
-# geo1016_ScatterDiff
-Developer: Cynthia Cai
-
+# ScatterDiff
 Function:  Compute mean Euclidean distance and visualize the differences between two scatters
+
+Developer: Cynthia Cai
 
 Date: May 27, 2022
 
