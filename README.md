@@ -1,5 +1,5 @@
 # ScatterDiff
-Function:  Compute mean Euclidean distance and visualize the differences between two scatters
+Function:  Compute mean Euclidean distance and visualize the differences between two scatter images
 
 Developer: Cynthia Cai
 
